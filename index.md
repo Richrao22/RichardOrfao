@@ -45,9 +45,9 @@ Member of **Golden Key Honor Society** since October 2018
   - Energetic work attitude.
 
 -  **Operating Systems:** 
-  - Windows
-  - Linux
-  - Mac OS.
+    - Windows
+    - Linux
+    - Mac OS.
   
 ## A Picture of Myself
 
