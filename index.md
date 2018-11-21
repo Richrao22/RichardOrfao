@@ -1,5 +1,3 @@
-<html>
-
 ---
 layout: default
 ---
@@ -8,13 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Background
 
-<table align="center">
-<tr align="center">
-<td align="center">
 My name is **Richard Orfao**, I am currently an international student at **Florida International University** Modesto A. Maidique Campus.
 I am an international student from Venezuela. I arrived 2 years and a half ago and started studying English at FIU at the English language Institute. Then I transferred to Miami Dade College after 2 semesters to complete my Associate in Arts. Now that I have my A.A. and I am studying at FIU pursuing a bachelors in IT. I am looking for a job since I want to get experience in my field and I will be extremely helpful for me in the future.
-</tr>
-</td>
 
 ### A Picture of Myself
 
@@ -27,7 +20,7 @@ I am an international student from Venezuela. I arrived 2 years and a half ago a
 ## Education
 
 > High School Diploma. June 2014 at Colegio Bolivar y Garibaldi, Caracas, Venezuela.
->Bachelor of Science degree in Information Technology. September 2014 to December 2015 at Universidad Metropolitana, Caracas, >Venezuela.
+>Bachelor of Science degree in Information Technology. September 2014 to December 2015 at Universidad Metropolitana, Caracas, Venezuela.
 >A.A. Pathway to a Major in Computer Information System. May 2018 at Miami Dade College.
 >Bachelor of Science degree in Information Technology. Expected May 2019 at Florida International University.
 >Cumulative GPA: 3.5 / 4.0.
@@ -115,5 +108,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-  </html>
