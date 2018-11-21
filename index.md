@@ -4,14 +4,21 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-My name is Richard Orfao, I am currently an international student at Florida International University at Modesto A. Maidique Campus.
+
+# Backgroud
+
+My name is **Richard Orfao**, I am currently an international student at **Florida International University** Modesto A. Maidique Campus.
 I am an international student from Venezuela. I arrived 2 years and a half ago and started studying English at FIU at the English language Institute. Then I transferred to Miami Dade College after 2 semesters to complete my Associate in Arts. Now that I have my A.A. and I am studying at FIU pursuing a bachelors in IT. I am looking for a job since I want to get experience in my field and I will be extremely helpful for me in the future.
 
-# Header 1
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+
+
+[Other Projects](http://ocelot.aul.fiu.edu/~rorfa001/).
+
 
 ## Header 2
 
