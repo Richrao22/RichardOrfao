@@ -32,11 +32,28 @@ I am an international student from Venezuela. I arrived 2 years and a half ago a
 *   **Design programs:** AutoCAD.
 *   **Classes:** Operating Systems, Applied Networking, and Database Administration.
 
-##### Header 5
+##### Skills
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- **Languages:**
+  - Spanish
+  - English 
+  - Italian
+  - Portuguese
+- **Competences:** 
+  - Initiative and problem-solving abilities
+  - Prioritizing
+  - Organization
+  - Multitasking
+  - Communication
+  - Adaptability
+  - Collaboration
+  - Energetic work attitude.
+
+-  **Operating Systems:** 
+  - Windows
+  - Linux
+  - Mac OS.
+
 
 ###### Header 6
 
