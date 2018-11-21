@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![RichardOrfao](IMG_7221.jpg)
 
 My name is **Richard Orfao**, I am currently an international student at **Florida International University** Modesto A. Maidique Campus.
 I am an international student from Venezuela. I arrived 2 years and a half ago and started studying English at FIU at the English language Institute. Then I transferred to Miami Dade College after 2 semesters to complete my Associate in Arts. Now that I have my A.A. and I am studying at FIU pursuing a bachelors in IT. I am looking for a job since I want to get experience in my field and I will be extremely helpful for me in the future.
