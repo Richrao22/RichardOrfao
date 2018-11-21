@@ -21,7 +21,7 @@ I am an international student from Venezuela. I arrived 2 years and a half ago a
 
 Member of **Golden Key Honor Society** since October 2018
 
-### RELEVANT COURSEWORK
+### Relevant Coursework
 
 *   **Programming Languages:** C++, Java, Linux Shell, Windows Batch, HTML, CSS, PHP, JavaScript, MySQL.
 *   **Design programs:** AutoCAD.
