@@ -17,22 +17,27 @@ I am an international student from Venezuela. I arrived 2 years and a half ago a
 ### [Other Projects](http://ocelot.aul.fiu.edu/~rorfa001/)
 
 
-## Education
+### Education
 
-> High School Diploma. June 2014 at Colegio Bolivar y Garibaldi, Caracas, Venezuela.
->Bachelor of Science degree in Information Technology. September 2014 to December 2015 at Universidad Metropolitana, Caracas, Venezuela.
->A.A. Pathway to a Major in Computer Information System. May 2018 at Miami Dade College.
->Bachelor of Science degree in Information Technology. Expected May 2019 at Florida International University.
->Cumulative GPA: 3.5 / 4.0.
->Member of Golden Key Honor Society since October 2018
+**High School Diploma**. June 2014 at Colegio Bolivar y Garibaldi, Caracas, Venezuela.
 
-#### RELEVANT COURSEWORK
+**Bachelor of Science degree in Information Technology**. September 2014 to December 2015 at Universidad Metropolitana, Caracas, Venezuela.
+
+**A.A. Pathway to a Major in Computer Information System**. May 2018 at Miami Dade College.
+
+**Bachelor of Science degree in Information Technology**. Expected May 2019 at Florida International University.
+
+**Cumulative GPA:** 3.5 / 4.0.
+
+Member of **Golden Key Honor Society** since October 2018
+
+### RELEVANT COURSEWORK
 
 *   **Programming Languages:** C++, Java, Linux Shell, Windows Batch, HTML, CSS, PHP, JavaScript, MySQL.
 *   **Design programs:** AutoCAD.
 *   **Classes:** Operating Systems, Applied Networking, and Database Administration.
 
-##### Skills
+### Skills
 
 - **Languages:**
   - Spanish
